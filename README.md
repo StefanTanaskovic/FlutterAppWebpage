@@ -1,10 +1,21 @@
 # Demo Project
 
+## Cloning the Repository
+
+To clone this repository and initialize submodules, run:
+
+```bash
+git clone <repository-url>
+cd <repository-directory>
+git submodule update --init
+```
+
 ## Running the Webpage
 
 To start the Angular webpage, run:
 
 ```bash
+npm install
 ng serve --host 0.0.0.0
 ```
 
