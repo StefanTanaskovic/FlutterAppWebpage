@@ -1,0 +1,6 @@
+[submodule "webpage"]
+	path = webpage
+	url = https://github.com/StefanTanaskovic/webpage
+[submodule "flutter_app"]
+	path = flutter_app
+	url = https://github.com/StefanTanaskovic/flutter_app
